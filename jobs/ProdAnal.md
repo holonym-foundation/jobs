@@ -10,7 +10,7 @@ Our approach to the challenges in web3 involves leveraging composable primitives
 We are a small, entirely remote team. We have a lot of fun building and innovating in the always-exciting web3 world. There is a fair amount of learning on-the-job since we operate in new cutting-edge areas.
 
 ## Job description
-As a cryptoengineer at Holonym Foundation, your tasks will involve
+As a Product Analyst at Holonym Foundation, your tasks will involve
 - segmenting users
 - analyzing errors on specific pages
 - on-chain analytics
